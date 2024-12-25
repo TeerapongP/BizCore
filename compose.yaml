@@ -1,0 +1,6 @@
+﻿services:
+  bizcore:
+    image: bizcore
+    build:
+      context: .
+      dockerfile: BizCore/Dockerfile

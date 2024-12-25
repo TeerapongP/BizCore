@@ -1,0 +1,6 @@
+@BizCore_HostAddress = http://localhost:5071
+
+GET {{BizCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
